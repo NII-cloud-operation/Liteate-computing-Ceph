@@ -1,1 +1,1 @@
-# Liteate-computing-Ceph
+# Literate-computing-Ceph
